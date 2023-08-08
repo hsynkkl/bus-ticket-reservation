@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "AUPVrpNLek3IB32Up/U4nEgpK5Kfvz7jGQTTQ18CiDXkIFPEUosDwq2iXVbQNenU1xUuJVeGsQL9Ie7a05AVjg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\arifk\\Desktop\\BusTicketReservation\\BusTicketReservation.Core\\BusTicketReservation.Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\arifk\\.nuget\\packages\\microsoft.aspnetcore.http.features\\5.0.17\\microsoft.aspnetcore.http.features.5.0.17.nupkg.sha512",
+    "C:\\Users\\arifk\\.nuget\\packages\\microsoft.extensions.primitives\\5.0.1\\microsoft.extensions.primitives.5.0.1.nupkg.sha512",
+    "C:\\Users\\arifk\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\arifk\\.nuget\\packages\\system.io.pipelines\\5.0.2\\system.io.pipelines.5.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
